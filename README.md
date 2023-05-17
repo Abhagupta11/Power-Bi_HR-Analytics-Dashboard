@@ -1,1 +1,1 @@
-# Power-Bi_HR-Analytics-Dashboard
+Hr Analytics dashboard project using Power BI
