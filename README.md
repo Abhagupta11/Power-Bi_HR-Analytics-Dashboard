@@ -1,1 +1,1 @@
-Hr Analytics dashboard project using Power B
+Hr Analytics dashboard project using Power Bi.
